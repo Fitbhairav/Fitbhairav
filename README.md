@@ -1,16 +1,46 @@
-### Hi there 👋
+# Bhairav Jangid
 
-<!--
-**Fitbhairav/Fitbhairav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Website: [fitbhairav.com](http://fitbhairav.com)
+- Phone: 8619259618
+- Email: bj16442cse2016@gmail.com
+- Address: 337n1, Ajmer Road, Lamba Hari Singh, Tonk, Rajasthan (304503)
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- M.Tech in Computer Science, Rajasthan Technical University, Kota, Rajasthan, India
+- B.Tech in Computer Science, Rajasthan Technical University, Kota, Rajasthan, India
+  - Year: August 2020
+  - Percentage: 63.64%
+- 12th in PCM, Kendriya Vidyalaya CSWRI, Avikanagar, Rajasthan, India
+  - Year: July 2015
+  - Percentage: 87.60%
+
+## Links
+
+- [Github](https://github.com/BhairavJangid)
+- [LinkedIn](https://www.linkedin.com/in/BhairavJangid)
+- [Research Gate](https://www.researchgate.net/profile/BhairavJangid)
+
+## Skills
+
+- C/C++
+- Python
+- Javascript
+- Core PHP
+- Django
+- Flask
+- React.JS
+- Basic of Node.JS
+- Bootstrap
+- Git/GitHub
+- REST APIs
+- MongoDB
+- MySQL
+- HTML
+- CSS
+
+## Coding Handles
+
+- Leetcode: [fiit_bhairav](https://leetcode.com/fiit_bhairav)
+- HackerRank: [BhairavJangid](https://www.hackerrank.com/BhairavJangid)
+- freeCodeCamp: [Fit_bhairav](https://www.freecodecamp.org/Fit_bhairav)
