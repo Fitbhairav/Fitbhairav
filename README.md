@@ -1,6 +1,6 @@
 # Bhairav Jangid
 
-- [![Website](https://img.shields.io/badge/Website-Visit-4285F4?logo=google-chrome)]([http://fitbhairav.com](http://fitbhairav.epizy.com/?i=2))
+- [![Website](https://img.shields.io/badge/Website-Visit-4285F4?logo=google-chrome)](http://fitbhairav.epizy.com/?i=2)
 [![Phone](https://img.shields.io/badge/Phone-Call-007ACC?logo=phone)](tel:+918619259618)
 [![Email](https://img.shields.io/badge/Email-Send-D14836?logo=gmail)](mailto:bj16442cse2016@gmail.com)
 
