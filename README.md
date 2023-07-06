@@ -12,6 +12,7 @@
 ## Links
 
 - [Github](https://github.com/BhairavJangid)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/BhairavJangid)
 - [LinkedIn](https://www.linkedin.com/in/BhairavJangid)
 - [Research Gate](https://www.researchgate.net/profile/BhairavJangid)
 
