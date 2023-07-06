@@ -11,10 +11,8 @@
 
 ## Links
 
-- [Github](https://github.com/BhairavJangid)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/BhairavJangid)
-- [LinkedIn](https://www.linkedin.com/in/BhairavJangid)
-- [Research Gate](https://www.researchgate.net/profile/BhairavJangid)
+- [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/BhairavJangid)
 
 ## Skills
 
@@ -36,6 +34,6 @@
 
 ## Coding Handles
 
-- Leetcode: [fiit_bhairav](https://leetcode.com/fiit_bhairav)
-- HackerRank: [BhairavJangid](https://www.hackerrank.com/BhairavJangid)
-- freeCodeCamp: [Fit_bhairav](https://www.freecodecamp.org/Fit_bhairav)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-ff4500?logo=leetcode)](https://leetcode.com/fiit_bhairav)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-2EC866?logo=hackerrank)](https://www.hackerrank.com/BhairavJangid)
+- [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learn-006400?logo=freecodecamp)](https://www.freecodecamp.org/Fit_bhairav)
