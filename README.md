@@ -3,17 +3,11 @@
 - Website: [fitbhairav.com](http://fitbhairav.com)
 - Phone: 8619259618
 - Email: bj16442cse2016@gmail.com
-- Address: 337n1, Ajmer Road, Lamba Hari Singh, Tonk, Rajasthan (304503)
 
 ## Education
 
 - M.Tech in Computer Science, Rajasthan Technical University, Kota, Rajasthan, India
 - B.Tech in Computer Science, Rajasthan Technical University, Kota, Rajasthan, India
-  - Year: August 2020
-  - Percentage: 63.64%
-- 12th in PCM, Kendriya Vidyalaya CSWRI, Avikanagar, Rajasthan, India
-  - Year: July 2015
-  - Percentage: 87.60%
 
 ## Links
 
