@@ -1,6 +1,7 @@
 # Bhairav Jangid
 
 - Website: [fitbhairav.com](http://fitbhairav.com)
+- [![Website](https://img.shields.io/badge/Website-Visit-4285F4?logo=google-chrome)](http://fitbhairav.com)
 - Phone: 8619259618
 - Email: bj16442cse2016@gmail.com
 
