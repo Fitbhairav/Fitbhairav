@@ -35,5 +35,5 @@
 ## Coding Handles
 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-ff4500?logo=leetcode)](https://leetcode.com/fiit_bhairav)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-2EC866?logo=hackerrank)](https://www.hackerrank.com/BhairavJangid)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-2EC866?logo=hackerrank)](https://www.hackerrank.com/bhairavjangid16?hr_r=1)
 - [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learn-006400?logo=freecodecamp)](https://www.freecodecamp.org/Fit_bhairav)
