@@ -29,8 +29,9 @@
 - REST APIs
 - MongoDB
 - MySQL
-- HTML
-- CSS
+- WordPress
+- Shopify
+- HTML/CSS
 
 ## Coding Handles
 
