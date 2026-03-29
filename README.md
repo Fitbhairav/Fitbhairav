@@ -9,7 +9,6 @@
 - 📞 Phone: +91 8619259618  
 - 📧 Email: bj16442cse2016@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/BhairavJangid  
-- 🔬 ResearchGate: https://www.researchgate.net/profile/BhairavJangid  
 
 ---
 
