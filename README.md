@@ -1,40 +1,138 @@
-# Bhairav Jangid
+# 🚀 Bhairav Jangid
 
-- [![Website](https://img.shields.io/badge/Website-Visit-4285F4?logo=google-chrome)](http://fitbhairav.epizy.com/?i=2)
-[![Phone](https://img.shields.io/badge/Phone-Call-007ACC?logo=phone)](tel:+918619259618)
-[![Email](https://img.shields.io/badge/Email-Send-D14836?logo=gmail)](mailto:bj16442cse2016@gmail.com)
+**AI Integrated Fullstack Developer | Python | Django | Distributed Systems | Kafka | RabbitMQ | Redis**
 
-## Education
+---
 
-- M.Tech in Computer Science, Rajasthan Technical University, Kota, Rajasthan, India
-- B.Tech in Computer Science, Rajasthan Technical University, Kota, Rajasthan, India
+## 🌐 Connect With Me
+- 🌍 Portfolio: http://fitbhairav.epizy.com/?i=2  
+- 📞 Phone: +91 8619259618  
+- 📧 Email: bj16442cse2016@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/BhairavJangid  
+- 🔬 ResearchGate: https://www.researchgate.net/profile/BhairavJangid  
 
-## Links
+---
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/BhairavJangid)
-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/BhairavJangid)
+## 🧠 About Me
+Backend Developer with **3+ years of experience** building scalable, production-grade systems using Python & Django.
 
-## Skills
+- ⚡ Designed **microservices & event-driven systems**
+- 📡 Hands-on with **Kafka & RabbitMQ pipelines (1000+ events/hr)**
+- 🚀 Optimized APIs to **<120ms latency**
+- 🧩 Strong in **system design, databases, and distributed architecture**
 
-- C/C++
-- Python
-- Javascript
-- Core PHP
-- Django
-- Flask
-- React.JS
-- Basic of Node.JS
-- Bootstrap
-- Git/GitHub
-- REST APIs
-- MongoDB
-- MySQL
-- WordPress
-- Shopify
-- HTML/CSS
+📌 Built real-world systems in **Healthcare & Real Estate domains**
 
-## Coding Handles
+---
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-ff4500?logo=leetcode)](https://leetcode.com/fiit_bhairav)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-2EC866?logo=hackerrank)](https://www.hackerrank.com/bhairavjangid16?hr_r=1)
-- [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Learn-006400?logo=freecodecamp)](https://www.freecodecamp.org/Fit_bhairav)
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend
+- Python, Django, FastAPI, DRF, GraphQL  
+- REST APIs, API Versioning  
+
+### 🗄️ Databases
+- PostgreSQL, MongoDB, MySQL, Redis  
+
+### 📡 Messaging & Async
+- RabbitMQ, Kafka, Celery, AWS SQS  
+
+### 🔐 Authentication
+- JWT, OAuth 2.0, RBAC  
+
+### ⚙️ DevOps & Tools
+- Docker, GitHub Actions, Linux, Nginx, AWS EC2/S3  
+
+### 🎯 Architecture
+- Microservices  
+- Event-Driven Systems  
+- Scalable Backend Design  
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Backend Developer — Telepathy InfoTech (2024–2026)
+
+#### 🏥 OKCare – Hospital Management System
+- Designed **microservices-based backend**
+- Integrated **Kafka for async event streaming**
+- Reduced DB load by **40% using Redis caching**
+- Achieved **<120ms API response time**
+
+---
+
+#### 🏡 HomeLead – Real Estate CRM
+- Built **RabbitMQ-based job processing system**
+- Handled **1000+ async jobs/hour**
+- Implemented **DLQ & retry mechanism**
+- Improved query performance by **35–45%**
+
+---
+
+### 🏢 Jr Backend Developer — PRP Webs (2023–2024)
+
+#### 🌐 Trevex – Business Networking Platform
+- Developed scalable REST APIs
+- Implemented **JWT authentication + refresh tokens**
+- Reduced DB queries from **30+ → <5**
+- Built React-based UI components
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 URL Shortener (High Performance)
+- FastAPI + Redis (<10ms redirect)
+- PostgreSQL analytics
+- Dockerized deployment
+
+---
+
+### ⚙️ Distributed Task Queue System
+- Celery + RabbitMQ
+- Retry logic, priority queues
+- Background jobs (emails, reports, exports)
+
+---
+
+## 🧩 System Design Strengths
+
+- Event-driven architecture  
+- Async processing pipelines  
+- Message queues (RabbitMQ/Kafka)  
+- Caching strategies (Redis)  
+- Database optimization  
+
+---
+
+## 🏆 Achievements & Certifications
+- NPTEL – Machine Learning  
+- NPTEL – Data Analytics with Python  
+- Research Paper Publication (IJSREM)  
+
+---
+
+## 💻 Coding Profiles
+- LeetCode: https://leetcode.com/fiit_bhairav  
+- HackerRank: https://www.hackerrank.com/bhairavjangid16  
+- freeCodeCamp: https://www.freecodecamp.org/Fit_bhairav  
+
+---
+
+## ⚡ What Makes Me Different?
+
+✔ I don’t just write APIs — I design **scalable systems**  
+✔ Strong understanding of **real-world backend problems**  
+✔ Experience with **production traffic & async architectures**  
+
+---
+
+## 📌 Current Focus
+- Advanced System Design  
+- Distributed Systems  
+- AI + Backend Integration  
+
+---
+
+## ⭐ Let’s Build Something Scalable!
